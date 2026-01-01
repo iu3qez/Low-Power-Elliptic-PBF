@@ -507,7 +507,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "LO_PBF.step",
       "svg": "",
       "vrml": ""
     },
